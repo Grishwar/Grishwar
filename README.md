@@ -75,8 +75,6 @@
 | 🖼️ **Smart Image Analysis Tool** | Spring Boot backend that extracts EXIF metadata from images, integrates OpenCage & Groq AI for reverse geocoding and automated PDF report generation, with ML classification (Random Forest, SVM, KMeans) |
 | ⚡ **Smart Grid Stability Prediction** | Classical + Quantum Machine Learning models comparing power grid stability prediction; published as an **IEEE paper at ICOSEC 2025** |
 | 📅 **Online Conference Management System** | Full-stack application to create, join, and manage meetings with real-time participant tracking and scheduling |
-| 🎭 **Deepfake Face-Swap Detection** | Flask-based deep learning app (CNN, InceptionV3, OpenCV) for detecting face-swapped deepfake images |
-| 🔍 **Social Media Fake Profile Detection** | ML-powered Streamlit app to identify fake social media profiles using feature engineering |
 | 💰 **FinPilot AI** | AI financial copilot for SMEs — generates financial health scores, credit scores, and investor-ready reports with a multilingual AI CFO advisor |
 | 🧠 **DevBrain AI** | Full-stack platform (FastAPI, Next.js, Neo4j, Qdrant) for natural-language codebase Q&A and knowledge graph visualization |
 
