@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/grishwar-s-v-5406bb258/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[mailto:grishwarsv@gmail.com](url)"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=grishwarsv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Grishwar&style=for-the-badge&color=blueviolet" alt="profile views" />
 </p>
 
@@ -94,7 +94,6 @@
 
 - 🏓 1st Place in Table Tennis — Anna University Zonal Meet (2023 & 2024)
 - 📄 Published & presented IEEE conference paper — *"Stability Prediction in Smart Grids using Classical and Quantum ML"* at ICOSEC 2025
-
 
 
 <p align="center"><i>Thanks for stopping by — let's connect and build something great! 🚀</i></p>
