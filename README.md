@@ -95,19 +95,6 @@
 - 🏓 1st Place in Table Tennis — Anna University Zonal Meet (2023 & 2024)
 - 📄 Published & presented IEEE conference paper — *"Stability Prediction in Smart Grids using Classical and Quantum ML"* at ICOSEC 2025
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Grishwar&show_icons=true&theme=tokyonight" alt="Grishwar's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Grishwar&theme=tokyonight" alt="Grishwar's streak stats" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grishwar&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
----
 
 <p align="center"><i>Thanks for stopping by — let's connect and build something great! 🚀</i></p>
