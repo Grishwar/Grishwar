@@ -61,11 +61,7 @@
 **Web Developer Intern** — Xcode Fix Pvt Ltd *(Dec 2024 – Jan 2025)*
 - Developed backend modules and REST APIs for booking & inventory management
 - Automated administrative workflows, reducing manual scheduling overhead
-
-**Web Developer Intern** — Eight Bit Technologies *(Jun 2024 – Jul 2024)*
-- Built authentication and order management features for an e-commerce application
-- Managed database operations and frontend–backend request/response workflows
-
+  
 ---
 
 ### 🧩 Featured Projects
