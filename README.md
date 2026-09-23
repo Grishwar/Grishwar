@@ -1,244 +1,95 @@
-<p align="center">
-  <img src="assets/header.svg" width="100%" alt="Grishwar S V Header" />
-</p>
+<h1 align="center">Hi there, I'm Grishwar S V 👋</h1>
+<h3 align="center">Computer Science Engineering Student | Backend & Full-Stack Developer | ML/QML Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/Grishwar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Grishwar%20S%20V%20%F0%9F%91%8B;Computer%20Science%20Engineering%20Student%20%F0%9F%8E%93;Backend%20%26%20Full-Stack%20Developer%20%F0%9F%92%BB;ML%20%2F%20QML%20Enthusiast%20%F0%9F%A4%96;Turning%20ideas%20into%20production%20code%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/grishwar-sv-5406bb258" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
-  </a>
-  &nbsp;
-  <a href="mailto:grishwarsv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://drive.google.com/YOUR_RESUME_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Grishwar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Grishwar&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/grishwar-s-v-5406bb258/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=grishwarsv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Grishwar&style=for-the-badge&color=blueviolet" alt="profile views" />
 </p>
 
 ---
 
-<h2 align="center">🔴 About Me</h2>
+### 🚀 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" />
+- 🎓 **B.E. Computer Science and Engineering** graduate from **Sri Ramakrishna Engineering College**, Coimbatore (2022 – 2026)
+- 💻 Hands-on experience with **Java, Spring Boot, REST APIs**, and database-driven applications
+- 🤖 Built projects spanning **Machine Learning, Quantum Machine Learning, and Generative AI**
+- 📄 Published an **IEEE conference paper** on Smart Grid Stability Prediction at **ICOSEC 2025**
+- 🏓 **Table Tennis** achiever — 1st Place, Anna University Zonal Meet (2023 & 2024)
+- 🌱 Currently exploring **LLM-powered systems, agentic workflows, and enterprise backend engineering**
+- 📫 Reach me at **grishwarsv@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
+**Frameworks & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-<p align="center">
-  Hey! I'm <b>Grishwar S V</b>, a passionate <b>Computer Science Engineering student & Backend/Full-Stack Developer</b> based in India.<br />
-  I specialize in Java/Spring Boot backend engineering, REST APIs, and blending classical and quantum machine learning to solve real-world problems.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Shipping-111111?style=flat-square" alt="Status" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-DC2626?style=flat-square" alt="Degree" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Backend_%26_ML%2FQML-111111?style=flat-square" alt="Focus" />
-</p>
-
-<ul>
-  <li>🎓 <b>B.E. Computer Science and Engineering</b> graduate from <b>Sri Ramakrishna Engineering College</b>, Coimbatore (2022 – 2026)</li>
-  <li>💻 Hands-on experience with <b>Java, Spring Boot, REST APIs</b>, and database-driven applications</li>
-  <li>🤖 Built projects spanning <b>Machine Learning, Quantum Machine Learning</b>, and <b>Generative AI</b></li>
-  <li>📄 Published an <b>IEEE conference paper</b> on Smart Grid Stability Prediction at <b>ICOSEC 2025</b></li>
-  <li>🏓 <b>Table Tennis</b> achiever — 1st Place, Anna University Zonal Meet (2023 & 2024)</li>
-  <li>🌱 Currently exploring <b>LLM-powered systems, agentic workflows</b>, and enterprise backend engineering</li>
-  <li>📫 Reach me at <a href="mailto:grishwarsv@gmail.com">grishwarsv@gmail.com</a></li>
-</ul>
-
-<p align="center">
-  💬 <b>Let's Discuss:</b> Java, Spring Boot, REST APIs, Machine Learning, Quantum ML & System Design.<br />
-  ⚡ <b>Philosophy:</b> <i>"Turning random ideas into production-grade software!"</i>
+**Data & ML**
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 </p>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
+### 💼 Experience
 
-<p align="center"><b>Languages</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,html,css,mysql&theme=dark" width="100%" style="max-width: 380px;" alt="Languages" />
-  </a>
-</p>
+**Web Developer Intern** — Xcode Fix Pvt Ltd *(Dec 2024 – Jan 2025)*
+- Developed backend modules and REST APIs for booking & inventory management
+- Automated administrative workflows, reducing manual scheduling overhead
+  
+---
 
-<p align="center"><b>Frameworks & Tools</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,mysql,mongodb,git,github,postman,docker&theme=dark" width="100%" style="max-width: 420px;" alt="Frameworks and Tools" />
-  </a>
-</p>
+### 🧩 Featured Projects
 
-<p align="center"><b>Data & ML</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=EF4444" alt="Scikit-Learn" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Qiskit-0a0a0a?style=for-the-badge&logo=qiskit&logoColor=EF4444" alt="Qiskit" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Power_BI-0a0a0a?style=for-the-badge&logo=powerbi&logoColor=EF4444" alt="Power BI" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Excel-0a0a0a?style=for-the-badge&logo=microsoftexcel&logoColor=EF4444" alt="Excel" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=EF4444" alt="Pandas" />
-</p>
+| Project | Description |
+|---|---|
+| 🖼️ **Smart Image Analysis Tool** | Spring Boot backend that extracts EXIF metadata from images, integrates OpenCage & Groq AI for reverse geocoding and automated PDF report generation, with ML classification (Random Forest, SVM, KMeans) |
+| ⚡ **Smart Grid Stability Prediction** | Classical + Quantum Machine Learning models comparing power grid stability prediction; published as an **IEEE paper at ICOSEC 2025** |
+| 📅 **Online Conference Management System** | Full-stack application to create, join, and manage meetings with real-time participant tracking and scheduling |
+| 💰 **FinPilot AI** | AI financial copilot for SMEs — generates financial health scores, credit scores, and investor-ready reports with a multilingual AI CFO advisor |
+| 🧠 **DevBrain AI** | Full-stack platform (FastAPI, Next.js, Neo4j, Qdrant) for natural-language codebase Q&A and knowledge graph visualization |
 
 ---
 
-<h2 align="center">💼 Experience</h2>
+### 📜 Certifications
 
-<table width="100%" border="0" align="center">
-<tr>
-<td align="center" style="padding: 20px;">
-  <h4>Web Developer Intern — Xcode Fix Pvt Ltd</h4>
-  <p><i>Dec 2024 – Jan 2025</i></p>
-  <ul style="text-align: left; display: inline-block;">
-    <li>Developed backend modules and REST APIs for booking & inventory management</li>
-    <li>Automated administrative workflows, reducing manual scheduling overhead</li>
-  </ul>
-</td>
-</tr>
-</table>
+- Java Spring Framework (Spring MVC, JDBC, Hibernate, AOP) – Simplilearn
+- Automation Developer Associate – UiPath
+- Cyber Security and Privacy – NPTEL
+- Building GenAI Apps – MongoDB
+- Prompt Engineering – Simplilearn
+- Microsoft Power BI & Excel – Udemy
+- Data Analytics Job Simulation – Deloitte (Forage)
 
----
+### 🏆 Achievements
 
-<h2 align="center">🔴 Featured Projects</h2>
+- 🏓 1st Place in Table Tennis — Anna University Zonal Meet (2023 & 2024)
+- 📄 Published & presented IEEE conference paper — *"Stability Prediction in Smart Grids using Classical and Quantum ML"* at ICOSEC 2025
 
-<table width="100%" border="0" align="center">
-<tr>
-<td align="center" style="padding: 22px;">
-  <h3>📸 Smart Image Analysis Tool</h3>
-  <p><i>Spring Boot backend that extracts EXIF metadata from images, integrates OpenCage & Groq AI for reverse geocoding and automated PDF report generation, with ML classification (Random Forest, SVM, KMeans).</i></p>
-  <br />
-  <p>
-    <a href="https://github.com/Grishwar" target="_blank">
-      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Project-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
-    </a>
-  </p>
-</td>
-</tr>
-<tr>
-<td align="center" style="padding: 22px;">
-  <h3>⚡ Smart Grid Stability Prediction</h3>
-  <p><i>Classical + Quantum Machine Learning models comparing power grid stability prediction; published as an IEEE paper at ICOSEC 2025.</i></p>
-  <br />
-  <p>
-    <a href="https://github.com/Grishwar" target="_blank">
-      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Project-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
-    </a>
-  </p>
-</td>
-</tr>
-</table>
 
----
-
-<h2 align="center">🧩 LeetCode Problem Solving</h2>
-
-<p align="center"><i>Live real-time tracker of coding challenges & algorithmic problem-solving milestones.</i></p>
-
-<p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
-  </a>
-</p>
-
----
-
-<h2 align="center">📊 GitHub Analytics & Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Grishwar&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Grishwar&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Grishwar&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" />
-</p>
-
----
-
-<h2 align="center">⚡ Contribution Journey</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
-</p>
-
----
-
-<h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
-
-<p align="center"><i>Whether you want to discuss backend architecture, Quantum ML, or just say hello — my inbox is always open!</i></p>
-
-<table border="0" align="center">
-<tr>
-<td align="center" width="220" style="padding: 16px;">
-  <a href="https://linkedin.com/in/grishwar-sv-5406bb258" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
-    <br /><br />
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
-  </a>
-  <br />
-  <sub><b>Professional Network</b></sub>
-</td>
-<td align="center" width="220" style="padding: 16px;">
-  <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" />
-    <br /><br />
-    <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
-  </a>
-  <br />
-  <sub><b>Updates & Insights</b></sub>
-</td>
-<td align="center" width="220" style="padding: 16px;">
-  <a href="mailto:grishwarsv@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
-    <br /><br />
-    <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-  </a>
-  <br />
-  <sub><b>Direct Collaboration</b></sub>
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Footer" />
-</p>
+<p align="center"><i>Thanks for stopping by — let's connect and build something great! 🚀</i></p>
