@@ -1,127 +1,309 @@
-<h1 align="center">Hi there, I'm Grishwar S V 👋</h1>
-
-<h3 align="center">
-Computer Science Engineering Graduate | Backend & Full-Stack Developer | ML/QML Enthusiast
-</h3>
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Grishwar S V Header" />
+</p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/Grishwar">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Grishwar%20S%20V%20%F0%9F%91%8B;Computer%20Science%20Engineer%20%F0%9F%8E%93;Full-Stack%20Developer%20%F0%9F%92%BB;Java%20%7C%20Python%20%7C%20Spring%20Boot%20Developer%20%F0%9F%9A%80;Building%20AI-Powered%20Solutions%20%F0%9F%A4%96" width="100%" style="max-width: 620px;" alt="Typing SVG" />
   </a>
-  <a href="mailto:grishwarsv@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Grishwar&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 **B.E. Computer Science and Engineering** graduate from **Sri Ramakrishna Engineering College, Coimbatore (2022–2026)**
-- 💻 Hands-on experience with **Java, Spring Boot, REST APIs, and database-driven applications**
-- 🤖 Built projects spanning **Machine Learning, Quantum Machine Learning, and Generative AI**
-- 📄 Published an **IEEE conference paper on Smart Grid Stability Prediction at ICOSEC 2025**
-- 🏓 **1st Place – Table Tennis, Anna University Zonal Meet (2023 & 2024)**
-- 🌱 Currently exploring **LLM-powered systems, agentic workflows, and enterprise backend engineering**
-- 📬 Reach me at **grishwarsv@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frameworks & Tools
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-0088CC?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Data & Machine Learning
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-## 💼 Experience
-
-### Web Developer Intern — Xcode Fix Pvt Ltd
-**Dec 2024 – Jan 2025**
-
-- Developed backend modules and **REST APIs** for booking and inventory management.
-- Automated administrative workflows, reducing manual scheduling overhead.
-
----
-
-## 🧩 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🖼️ **Smart Image Analysis Tool** | Spring Boot backend that extracts EXIF metadata from images, integrates **OpenCage** for reverse geocoding and **Groq AI** for automated PDF report generation, with ML classification using **Random Forest, SVM and K-Means**. |
-| ⚡ **Smart Grid Stability Prediction** | Classical + Quantum Machine Learning models for power-grid stability prediction; research published as an **IEEE paper at ICOSEC 2025**. |
-| 📅 **Online Conference Management System** | Full-stack application to create, join and manage meetings with **real-time participant tracking and scheduling**. |
-| 💰 **FinPilot AI** | AI financial copilot for SMEs that generates **financial health scores, credit scores and investor-ready reports**, with a multilingual AI CFO advisor. |
-| 🧠 **DevBrain AI** | Full-stack platform using **FastAPI, Next.js, Neo4j and Qdrant** for natural-language codebase Q&A and knowledge graph visualization. |
-
----
-
-## 📜 Certifications
-
-- **Java Spring Framework** — Spring MVC, JDBC, Hibernate, AOP — Simplilearn
-- **Automation Developer Associate** — UiPath
-- **Cyber Security and Privacy** — NPTEL
-- **Building GenAI Apps** — MongoDB
-- **Prompt Engineering** — Simplilearn
-- **Microsoft Power BI & Excel** — Udemy
-- **Data Analytics Job Simulation** — Deloitte (Forage)
-
----
-
-## 🏆 Achievements
-
-- 🏓 **1st Place in Table Tennis** — Anna University Zonal Meet (2023 & 2024)
-- 📄 Published & presented IEEE conference paper — **"Stability Prediction in Smart Grids using Classical and Quantum ML"** at **ICOSEC 2025**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Grishwar&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grishwar&layout=compact&theme=dark&hide_border=true" width="40%" />
+  &nbsp;
+  <a href="https://github.com/Grishwar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Grishwar&theme=dark&hide_border=true" width="60%" />
+  <img src="https://komarev.com/ghpvc/?username=Grishwar&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+<h2 align="center">🔴 About Me</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=650&height=28&lines=Building+projects.+Solving+problems.+Learning+every+day." width="100%" style="max-width: 650px;" alt="Typing Quote" />
+</p>
+
+<p align="center">
+  Hey! I'm <b>Grishwar S V</b>, a <b>Computer Science Engineering graduate</b> from
+  <b>Sri Ramakrishna Engineering College, Coimbatore</b>.
+  <br />
+  I enjoy building scalable software applications, full-stack platforms,
+  REST APIs, and AI-powered solutions.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Learning-111111?style=flat-square" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-DC2626?style=flat-square" alt="Degree" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_AI-111111?style=flat-square" alt="Focus" />
+</p>
+
+<p align="center">
+  💻 <b>Interested In:</b> Full-Stack Development, Backend Engineering, AI & Machine Learning<br />
+  ⚡ <b>Current Focus:</b> Java, Spring Boot, DSA, SQL, System Design & Modern Web Development<br />
+  🚀 <b>Goal:</b> Build production-ready software and continuously improve my engineering skills
 </p>
 
 ---
 
-<h3 align="center">
-Thanks for stopping by — let's connect and build something great! 🚀
-</h3>
+<h2 align="center">🚀 What I'm Working On</h2>
+
+<table width="100%" border="0" align="center">
+<tr>
+
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>💻 Full-Stack Development</h4>
+  <p>
+    Building modern web applications using
+    <b>React, Next.js, Java, Spring Boot, FastAPI</b> and databases.
+  </p>
+</td>
+
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🤖 AI & Machine Learning</h4>
+  <p>
+    Exploring machine learning, AI-powered applications,
+    data analysis and intelligent automation.
+  </p>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🧠 Problem Solving</h4>
+  <p>
+    Practicing <b>Data Structures & Algorithms</b>,
+    Java programming and SQL problem solving.
+  </p>
+</td>
+
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🔧 Backend Engineering</h4>
+  <p>
+    Developing REST APIs, database-driven applications,
+    authentication systems and backend services.
+  </p>
+</td>
+
+</tr>
+</table>
+
+---
+
+<h2 align="center">🔥 Featured Projects</h2>
+
+<table width="100%" border="0" align="center">
+
+<tr>
+<td align="center" style="padding: 22px;">
+
+<h3>💰 FinPilot AI</h3>
+
+<p>
+An AI-powered financial copilot designed to help SMEs understand
+their financial health through automated analysis and intelligent insights.
+</p>
+
+<p>
+<b>Tech:</b> Python · FastAPI · Next.js · TypeScript · PostgreSQL · SQLAlchemy · AI
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" style="padding: 22px;">
+
+<h3>🔐 MetaExtract</h3>
+
+<p>
+A digital forensic metadata analysis tool that extracts EXIF information,
+performs location-based analysis and generates automated reports.
+</p>
+
+<p>
+<b>Tech:</b> Java · Spring Boot · REST API · Python · Machine Learning · OpenCage API
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" style="padding: 22px;">
+
+<h3>⚡ Smart Grid Management</h3>
+
+<p>
+A machine learning and quantum machine learning based project
+focused on energy consumption and smart grid analysis.
+</p>
+
+<p>
+<b>Tech:</b> Python · Machine Learning · Scikit-learn · Data Processing · QML
+</p>
+
+</td>
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">🧠 Technical Skills</h2>
+
+<p align="center"><b>Programming Languages</b></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,html,css&theme=dark" />
+</p>
+
+<p align="center"><b>Frontend Development</b></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
+</p>
+
+<p align="center"><b>Backend Development</b></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express&theme=dark" />
+</p>
+
+<p align="center"><b>Databases</b></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark" />
+</p>
+
+<p align="center"><b>AI, Data & Tools</b></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,docker,git,github,postman,linux&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=EF4444" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Scikit--Learn-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=EF4444" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/XGBoost-0a0a0a?style=for-the-badge&logo=xgboost&logoColor=EF4444" />
+</p>
+
+---
+
+<h2 align="center">📚 Core Computer Science</h2>
+
+<p align="center">
+
+`Data Structures & Algorithms` ·
+`Object-Oriented Programming` ·
+`DBMS` ·
+`Operating Systems` ·
+`Computer Networks` ·
+`SQL` ·
+`REST APIs` ·
+`Git & GitHub`
+
+</p>
+
+---
+
+<h2 align="center">🏆 Research & Publications</h2>
+
+<p align="center">
+  📄 <b>Smart Grid Stability Prediction</b>
+  <br />
+  Research work presented at <b>ICOSEC 2025</b>.
+  <br />
+  <sub>IEEE Conference Publication · Scopus Indexed</sub>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Grishwar&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grishwar&layout=compact&theme=dark&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Grishwar&theme=dark&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Journey</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+<h2 align="center">🎯 Current Learning Journey</h2>
+
+<table width="100%" border="0" align="center">
+
+<tr>
+<td align="center" width="33%" style="padding: 15px;">
+  <h3>☕ Java</h3>
+  <p>OOP · Collections · DSA · Advanced Java</p>
+</td>
+
+<td align="center" width="33%" style="padding: 15px;">
+  <h3>🌱 Spring Boot</h3>
+  <p>REST APIs · Microservices · Backend Architecture</p>
+</td>
+
+<td align="center" width="33%" style="padding: 15px;">
+  <h3>🧩 DSA</h3>
+  <p>Problem Solving · Algorithms · Competitive Programming</p>
+</td>
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">📬 Let's Connect</h2>
+
+<p align="center">
+  I'm always interested in discussing software development,
+  AI projects, open-source ideas and technology.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Grishwar">
+    <img src="https://img.shields.io/badge/GitHub-Grishwar-111111?style=for-the-badge&logo=github&logoColor=EF4444" />
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>“Build. Learn. Solve. Repeat.”</i>
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Footer" />
+</p>
